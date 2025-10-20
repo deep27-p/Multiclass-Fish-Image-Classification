@@ -54,7 +54,8 @@ Supports both multi-class softmax and single-output sigmoid models.
 📂 Repository Structure
 fish-classifier/
 │
-├─ app.py                  # Main Streamlit app
+├─ app.py  
+# Main Streamlit app
 ├─ models/
 │   └─ best_fish_model.keras   # Trained Keras model
 ├─ requirements.txt        # Python dependencies
