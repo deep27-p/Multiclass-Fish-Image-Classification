@@ -61,12 +61,5 @@ fish-classifier/
 ├─ requirements.txt        # Python dependencies
 └─ README.md               # Project overview
 
-⚡ Future Improvements
-
-Add real-time webcam classification.
-
-Integrate more fish species for a larger dataset.
-
-Add history/logging of uploaded images and predictions.
-
-Deploy on Streamlit Cloud or Heroku for online access.
+Demo video on linkedlin
+https://www.linkedin.com/in/deepak-baskar-n-948686252/
