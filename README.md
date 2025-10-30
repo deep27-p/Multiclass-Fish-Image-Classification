@@ -62,4 +62,4 @@ fish-classifier/
 └─ README.md               # Project overview
 
 Demo video on linkedlin
-[https://www.linkedin.com/in/deepak-baskar-n-948686252/](https://www.linkedin.com/feed/update/urn:li:activity:7385940813165359104/)
+https://www.linkedin.com/in/deepakbaskar27/
